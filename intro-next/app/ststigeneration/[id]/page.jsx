@@ -4,7 +4,7 @@ export async function generateStaticParams() {
     const res = await fetch("https://dummyjson.com/todos")
     const data = await res.json()
     return data.todos.map((item) => ({
-        call: item.id.toString()
+        id: item.id.toString()
     }))
 }
 

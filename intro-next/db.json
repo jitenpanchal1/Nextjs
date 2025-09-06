@@ -1,0 +1,40 @@
+{
+  "manue": [
+    {
+      "id": 1,
+      "price": 5550,
+      "time": "10 minutes",
+      "name": "pizza"
+    },
+    {
+      "id": 2,
+      "price": 200,
+      "time": "1 minutes",
+      "name": "kaju"
+    },
+    {
+      "id": 3,
+      "price": 300,
+      "time": "1 minutes",
+      "name": "maggi"
+    },
+    {
+      "id": 4,
+      "price": 400,
+      "time": "1 minutes",
+      "name": "pizza"
+    },
+    {
+      "id": 5,
+      "price": 500,
+      "time": "1 minutes",
+      "name": "chike"
+    },
+    {
+      "id": 6,
+      "price": 600,
+      "time": "1 minutes",
+      "name": "coc"
+    }
+  ]
+}
