@@ -7,6 +7,18 @@ export const metadata = {
 export default async function page({ params }) {
 
     const { id, comment } = await params
+
+    // if (comment % 2 === 0) {
+    //     throw new Error;
+    // }
+
+    const rendome = Math.random()
+    console.log(rendome)
+
+    if (rendome > 0.5) {
+        throw new Error("numer up yo 0.5")
+    }
+    
     return (
         <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 px-6 text-center">
             <h1 className="text-2xl font-semibold text-gray-800 mb-4 leading-relaxed">

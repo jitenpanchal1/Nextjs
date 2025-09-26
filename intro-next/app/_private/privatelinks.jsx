@@ -1,0 +1,1 @@
+export const Todo = "https://jsonplaceholder.typicode.com/posts"

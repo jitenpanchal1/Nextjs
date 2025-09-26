@@ -3,7 +3,7 @@
 export default async function page() {
 
     const Api = await fetch("http://localhost:5000/manue", {
-        next: { revalidate: 300 }
+        next: { revalidate: 100 }
     })
     const read = await Api.json()
     console.log("Run manue",)

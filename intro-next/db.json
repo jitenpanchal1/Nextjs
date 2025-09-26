@@ -2,8 +2,8 @@
   "manue": [
     {
       "id": 1,
-      "price": 5550,
-      "time": "10 minutes",
+      "price": 50,
+      "time": "100 minutes",
       "name": "pizza"
     },
     {
