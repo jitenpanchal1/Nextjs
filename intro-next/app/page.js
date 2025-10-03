@@ -122,12 +122,28 @@ export default function Home() {
             Context Api
           </Link>
         </li>
-         <li>
+        <li>
           <Link
             href="/redux"
             className="block px-6 py-3  bg-gray-500 text-white rounded-xl shadow-md hover:bg-gray-600 transition text-center font-medium"
           >
-           Redux Api
+            Redux Api
+          </Link>
+        </li>
+        <li>
+          <Link
+            href="/imageopt"
+            className="block px-6 py-3 bg-orange-500 text-white rounded-xl shadow-md hover:bg-orange-600 transition text-center font-medium"
+          >
+            Image optimisation
+          </Link>
+        </li>
+        <li>
+          <Link
+            href="/backend"
+            className="block px-6 py-3 bg-red-500 text-white rounded-xl shadow-md hover:bg-red-600 transition text-center font-medium"
+          >
+            Backend Side
           </Link>
         </li>
       </ul>

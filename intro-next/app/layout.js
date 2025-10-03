@@ -22,6 +22,13 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  // const rendome = Math.random();
+  // console.log(rendome);
+
+  // if (rendome > 0.5) {
+  //   throw new Error("This is a random error for testing purposes.");
+  // }
+
   return (
     <html lang="en">
       <body
