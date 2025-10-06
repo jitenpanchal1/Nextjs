@@ -143,7 +143,7 @@ export default function Home() {
             href="/backend"
             className="block px-6 py-3 bg-red-500 text-white rounded-xl shadow-md hover:bg-red-600 transition text-center font-medium"
           >
-            Backend Side
+           Next.js Backend Side
           </Link>
         </li>
       </ul>

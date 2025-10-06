@@ -18,9 +18,36 @@ export default function page() {
                 <li>
                     <Link
                         href="/backend/getroute"
-                        className="block px-8 py-4 bg-blue-600 text-white rounded-2xl shadow-lg hover:bg-blue-700 hover:scale-105 transition-all duration-300 ease-in-out text-center font-semibold"
+                        className="block px-8 py-4 bg-blue-500 text-white rounded-2xl shadow-lg hover:bg-blue-600 hover:scale-105 transition-all duration-300 ease-in-out text-center font-semibold"
                     >
                         🔹 Get Method
+                    </Link>
+                </li>
+                <li>
+                    <Link
+                        href="/backend/postroute"
+                        className="block px-8 py-4 bg-amber-500 text-white rounded-2xl shadow-lg 
+                        hover:bg-amber-600 hover:scale-105 transition-all duration-300 ease-in-out text-center font-semibold"
+                    >
+                        🔹 Post Method
+                    </Link>
+                </li>
+                <li>
+                    <Link
+                        href="/backend/edittodo"
+                        className="block px-8 py-4 bg-emerald-500 text-white rounded-2xl shadow-lg 
+                        hover:bg-emerald-600 hover:scale-105 transition-all duration-300 ease-in-out text-center font-semibold"
+                    >
+                        🔹 Edit Method
+                    </Link>
+                </li>
+                <li>
+                    <Link
+                        href="/backend/delettodo"
+                        className="block px-8 py-4  bg-pink-500 text-white rounded-2xl shadow-lg 
+                        hover:bg-pink-600 hover:scale-105 transition-all duration-300 ease-in-out text-center font-semibold"
+                    >
+                        🔹 Delete Method
                     </Link>
                 </li>
             </ul>

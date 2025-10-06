@@ -1,36 +1,22 @@
 [
-    {
-        "id": 1,
-        "task": "create a nextjs project",
-        "status": true
-    },
-    {
-        "id": 2,
-        "task": "create a nextjs project",
-        "status": false
-    },
-    {
-        "id": 3,
-        "task": "create a nextjs project",
-        "status": true
-    },
-    {
-        "id": 4,
-        "task": "create a nextjs project",
-        "status": false
-    },
-    {
-        "id": 5,
-        "task": "create a nextjs project",
-        "status": true
-    },
-        {
-        "id": 50,
-        "task": "create a nextjs project",
-        "status": true
-    },{
-        "id": "nfuhfyegfgf",
-        "task": "create a nextjs project",
-        "status": true
-    }
+  {
+    "id": "7ed3004e-9a20-4221-b62a-19f71b4387ac",
+    "task": "learn react js with next js.",
+    "status": false
+  },
+  {
+    "id": "a4263e31-bd5a-475f-84cf-0ddb1597df6f",
+    "task": "learn frontend all frameworks",
+    "status": false
+  },
+  {
+    "id": "7f6b53e5-bb6c-48b5-8ea9-8a0cb52a4d1a",
+    "task": "learn how to edit the todo and how to save in the database",
+    "status": false
+  },
+  {
+    "id": "7848ca76-f39d-450d-98c9-9ff707159a69",
+    "task": "hara samandar gopi chandan, banja hero mastklandar",
+    "status": false
+  }
 ]
