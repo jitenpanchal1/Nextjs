@@ -1,22 +1,22 @@
 [
   {
-    "id": "7ed3004e-9a20-4221-b62a-19f71b4387ac",
-    "task": "learn react js with next js.",
+    "id": "d16f70e8-c1e7-4418-82e5-1fafd9944a2c",
+    "task": "learn next.js",
     "status": false
   },
   {
-    "id": "a4263e31-bd5a-475f-84cf-0ddb1597df6f",
-    "task": "learn frontend all frameworks",
+    "id": "98d20a46-f984-4dcb-8851-2abcea1024dd",
+    "task": "learn react.js",
     "status": false
   },
   {
-    "id": "7f6b53e5-bb6c-48b5-8ea9-8a0cb52a4d1a",
-    "task": "learn how to edit the todo and how to save in the database",
+    "id": "c821a48e-fe7d-4b20-8ec5-36daa3bb3d13",
+    "task": "did u take help chatgpt for css and ui  (yes)",
     "status": false
   },
   {
-    "id": "7848ca76-f39d-450d-98c9-9ff707159a69",
-    "task": "hara samandar gopi chandan, banja hero mastklandar",
+    "id": "5c03ff8f-9e80-4b9d-ac49-275ae78ca5a8",
+    "task": "did u complete crud operation with next.js backend",
     "status": false
   }
 ]
