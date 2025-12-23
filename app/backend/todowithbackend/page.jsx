@@ -1,7 +1,6 @@
 "use client"
 import { useEffect, useState } from "react"
 
-
 export default function page() {
 
     const [todos, settodos] = useState([])
@@ -83,12 +82,12 @@ export default function page() {
     return (
         <>
             <div className="min-h-screen bg-gradient-to-br from-emerald-100 via-teal-100 to-blue-100 flex flex-col items-center py-12 px-6">
-                {/* Title */}
+             
                 <h1 className="text-5xl font-extrabold text-emerald-700 mb-12 drop-shadow-xl tracking-wide text-center">
                     ✅ Modern Todo List
                 </h1>
 
-                {/* Input Section */}
+             
                 <div className="flex items-center justify-between gap-3 bg-white/90 shadow-xl rounded-2xl p-5 w-full max-w-2xl backdrop-blur-lg transition-transform duration-300 hover:scale-[1.02]">
                     <input
                         type="text"
@@ -105,7 +104,7 @@ export default function page() {
                     </button>
                 </div>
 
-                {/* Todo List */}
+             
                 <div className="w-full max-w-2xl mt-10 bg-white/95 shadow-2xl rounded-3xl p-6 backdrop-blur-md border border-emerald-100 transition-all duration-300 hover:shadow-emerald-200/70">
                     {todos.length > 0 ? (
                         <ul className="space-y-4">

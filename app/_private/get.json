@@ -1,22 +1,27 @@
 [
   {
-    "id": "d16f70e8-c1e7-4418-82e5-1fafd9944a2c",
-    "task": "learn next.js",
-    "status": false
-  },
-  {
     "id": "98d20a46-f984-4dcb-8851-2abcea1024dd",
     "task": "learn react.js",
-    "status": false
+    "status": true
   },
   {
     "id": "c821a48e-fe7d-4b20-8ec5-36daa3bb3d13",
     "task": "did u take help chatgpt for css and ui  (yes)",
-    "status": false
+    "status": true
   },
   {
     "id": "5c03ff8f-9e80-4b9d-ac49-275ae78ca5a8",
     "task": "did u complete crud operation with next.js backend",
+    "status": false
+  },
+  {
+    "id": "e76a48c8-abe5-4ca5-bcae-af165b579373",
+    "task": "now go forward to the real database",
+    "status": false
+  },
+  {
+    "id": "6acf77f5-73a5-44f0-a5b1-ad7d6710b3a9",
+    "task": "u have interview tomorrow",
     "status": false
   }
 ]
